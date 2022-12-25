@@ -54,6 +54,7 @@ body {
 
 .hero-banner-img {
   position: absolute;
+  border-radius: 20px;
   right: 40px;
   top: 0px;
   width: 700px;
