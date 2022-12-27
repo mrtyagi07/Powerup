@@ -7,3 +7,5 @@ PowerUp is a fitness website that offers a variety of exercises for all fitness 
 ![Powerup](https://i.ibb.co/kB7TN7Q/screencapture-localhost-5173-2022-12-27-17-33-52.png)
 
 ![Powerup](https://i.ibb.co/PmGjyqX/screencapture-localhost-5173-exercise-0007-2022-12-27-17-34-24.png)
+
+![Powerup](https://i.ibb.co/z6gY70Q/Powerup-Fitness.gif)
